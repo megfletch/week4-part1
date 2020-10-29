@@ -1,0 +1,11 @@
+---
+title: "lab4_week1_CI&T-tests"
+author: "Meghan Fletcher"
+date: "10/29/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
